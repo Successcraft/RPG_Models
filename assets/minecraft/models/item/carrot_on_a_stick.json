@@ -6,8 +6,8 @@
 	"overrides": [
 		{ "predicate": {"damaged": 0, "damage": 0.04}, "model":"halb/stick/skillpoint"},
 		{ "predicate": {"damaged": 0, "damage": 0.08}, "model": "halb/stick/wand_torch"},
-		{ "predicate": {"damaged": 0, "damage": 0.12}, "model": "halb/stick/wand_1"},
-		{ "predicate": {"damaged": 0, "damage": 0.16}, "model": "halb/stick/wand_2"},
+		{ "predicate": {"damaged": 0, "damage": 0.12}, "model": "halb/stick/wand_explosion"},
+		{ "predicate": {"damaged": 0, "damage": 0.16}, "model": "halb/stick/wand_ice"},
 		{ "predicate": {"damaged": 0, "damage": 0.2}, "model": "halb/stick/5"},
 		{ "predicate": {"damaged": 0, "damage": 0.24}, "model": "halb/stick/6"},
 		{ "predicate": {"damaged": 0, "damage": 0.28}, "model": "halb/stick/7"},

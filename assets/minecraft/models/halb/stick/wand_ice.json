@@ -204,16 +204,16 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation":  [ 45, 82, 0 ]
+			"rotation":  [ 0, 82, 0 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation":  [ 45, 82, 0 ]
+			"rotation":  [ 0, 82, 0 ]
 		},
 		"firstperson_righthand": {
-			"rotation":  [ 0, -82, 0 ]
+			"rotation":  [ -38, -82, 0 ]
 		},
 		"firstperson_lefthand": {
-			"rotation":  [ 0, -82, 0 ]
+			"rotation":  [ -38, -82, 0 ]
 		},
 		"gui": {
 			"rotation":  [ 0, 45, -55 ]

@@ -1,0 +1,27 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/iron_pickaxe"
+	},
+	"overrides": [
+		{ "predicate": {"damaged": 0, "damage": 0.00398406374501992}, "model": "halb/pickaxe_iron/1"},
+		{ "predicate": {"damaged": 0, "damage": 0.00796812749003984}, "model": "halb/pickaxe_iron/2"},
+		{ "predicate": {"damaged": 0, "damage": 0.01195219123505976}, "model": "halb/pickaxe_iron/3"},
+		{ "predicate": {"damaged": 0, "damage": 0.01593625498007968}, "model": "halb/pickaxe_iron/4"},
+		{ "predicate": {"damaged": 0, "damage": 0.0199203187250996}, "model": "halb/pickaxe_iron/5"},
+		{ "predicate": {"damaged": 0, "damage": 0.02390438247011952}, "model": "halb/pickaxe_iron/6"},
+		{ "predicate": {"damaged": 0, "damage": 0.027888446215139442}, "model": "halb/pickaxe_iron/7"},
+		{ "predicate": {"damaged": 0, "damage": 0.03187250996015936}, "model": "halb/pickaxe_iron/8"},
+		{ "predicate": {"damaged": 0, "damage": 0.03585657370517928}, "model": "halb/pickaxe_iron/9"},
+		{ "predicate": {"damaged": 0, "damage": 0.0398406374501992}, "model": "halb/pickaxe_iron/10"},
+		{ "predicate": {"damaged": 0, "damage": 0.043824701195219126}, "model": "halb/pickaxe_iron/11"},
+		{ "predicate": {"damaged": 0, "damage": 0.04780876494023904}, "model": "halb/pickaxe_iron/12"},
+		{ "predicate": {"damaged": 0, "damage": 0.05179282868525896}, "model": "halb/pickaxe_iron/13"},
+		{ "predicate": {"damaged": 0, "damage": 0.055776892430278883}, "model": "halb/pickaxe_iron/14"},
+		{ "predicate": {"damaged": 0, "damage": 0.05976095617529881}, "model": "halb/pickaxe_iron/15"},
+		{ "predicate": {"damaged": 0, "damage": 0.06374501992031872}, "model": "halb/pickaxe_iron/16"},
+		{ "predicate": {"damaged": 0, "damage": 0.06772908366533864}, "model": "halb/pickaxe_iron/17"},
+		{ "predicate": {"damaged": 0, "damage": 0.07171314741035856}, "model": "halb/pickaxe_iron/18"},
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/pickaxe"}
+	]
+}

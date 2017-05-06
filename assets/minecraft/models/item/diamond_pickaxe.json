@@ -1,0 +1,27 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/diamond_pickaxe"
+	},
+	"overrides": [
+		{ "predicate": {"damaged": 0, "damage": 0.0006402048655569782}, "model": "halb/pickaxe_diamond/1"},
+		{ "predicate": {"damaged": 0, "damage": 0.0012804097311139564}, "model": "halb/pickaxe_diamond/2"},
+		{ "predicate": {"damaged": 0, "damage": 0.0019206145966709346}, "model": "halb/pickaxe_diamond/3"},
+		{ "predicate": {"damaged": 0, "damage": 0.002560819462227913}, "model": "halb/pickaxe_diamond/4"},
+		{ "predicate": {"damaged": 0, "damage": 0.003201024327784891}, "model": "halb/pickaxe_diamond/5"},
+		{ "predicate": {"damaged": 0, "damage": 0.0038412291933418692}, "model": "halb/pickaxe_diamond/6"},
+		{ "predicate": {"damaged": 0, "damage": 0.004481434058898847}, "model": "halb/pickaxe_diamond/7"},
+		{ "predicate": {"damaged": 0, "damage": 0.005121638924455826}, "model": "halb/pickaxe_diamond/8"},
+		{ "predicate": {"damaged": 0, "damage": 0.005761843790012804}, "model": "halb/pickaxe_diamond/9"},
+		{ "predicate": {"damaged": 0, "damage": 0.006402048655569782}, "model": "halb/pickaxe_diamond/10"},
+		{ "predicate": {"damaged": 0, "damage": 0.00704225352112676}, "model": "halb/pickaxe_diamond/11"},
+		{ "predicate": {"damaged": 0, "damage": 0.0076824583866837385}, "model": "halb/pickaxe_diamond/12"},
+		{ "predicate": {"damaged": 0, "damage": 0.008322663252240717}, "model": "halb/pickaxe_diamond/13"},
+		{ "predicate": {"damaged": 0, "damage": 0.008962868117797694}, "model": "halb/pickaxe_diamond/14"},
+		{ "predicate": {"damaged": 0, "damage": 0.009603072983354673}, "model": "halb/pickaxe_diamond/15"},
+		{ "predicate": {"damaged": 0, "damage": 0.010243277848911651}, "model": "halb/pickaxe_diamond/16"},
+		{ "predicate": {"damaged": 0, "damage": 0.01088348271446863}, "model": "halb/pickaxe_diamond/17"},
+		{ "predicate": {"damaged": 0, "damage": 0.011523687580025609}, "model": "halb/pickaxe_diamond/18"},
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/diamond_pickaxe"}
+	]
+}

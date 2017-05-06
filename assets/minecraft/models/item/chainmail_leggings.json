@@ -1,0 +1,27 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/chainmail_leggings"
+	},
+	"overrides": [
+		{ "predicate": {"damaged": 0, "damage": 0.00425531914893617}, "model": "halb/leggings/1"},
+		{ "predicate": {"damaged": 0, "damage": 0.00851063829787234}, "model": "halb/leggings/2"},
+		{ "predicate": {"damaged": 0, "damage": 0.012765957446808512}, "model": "halb/leggings/3"},
+		{ "predicate": {"damaged": 0, "damage": 0.01702127659574468}, "model": "halb/leggings/4"},
+		{ "predicate": {"damaged": 0, "damage": 0.02127659574468085}, "model": "halb/leggings/5"},
+		{ "predicate": {"damaged": 0, "damage": 0.025531914893617023}, "model": "halb/leggings/6"},
+		{ "predicate": {"damaged": 0, "damage": 0.029787234042553193}, "model": "halb/leggings/7"},
+		{ "predicate": {"damaged": 0, "damage": 0.03404255319148936}, "model": "halb/leggings/8"},
+		{ "predicate": {"damaged": 0, "damage": 0.03829787234042553}, "model": "halb/leggings/9"},
+		{ "predicate": {"damaged": 0, "damage": 0.0425531914893617}, "model": "halb/leggings/10"},
+		{ "predicate": {"damaged": 0, "damage": 0.04680851063829787}, "model": "halb/leggings/11"},
+		{ "predicate": {"damaged": 0, "damage": 0.05106382978723405}, "model": "halb/leggings/12"},
+		{ "predicate": {"damaged": 0, "damage": 0.055319148936170216}, "model": "halb/leggings/13"},
+		{ "predicate": {"damaged": 0, "damage": 0.059574468085106386}, "model": "halb/leggings/14"},
+		{ "predicate": {"damaged": 0, "damage": 0.06382978723404255}, "model": "halb/leggings/15"},
+		{ "predicate": {"damaged": 0, "damage": 0.06808510638297872}, "model": "halb/leggings/16"},
+		{ "predicate": {"damaged": 0, "damage": 0.0723404255319149}, "model": "halb/leggings/17"},
+		{ "predicate": {"damaged": 0, "damage": 0.07659574468085106}, "model": "halb/leggings/18"},
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/chainmail_leggings"}
+	]
+}

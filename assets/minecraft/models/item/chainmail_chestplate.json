@@ -1,0 +1,26 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/chainmail_chestplate"
+	},
+	"overrides": [
+		{ "predicate": {"damaged": 0, "damage": 0.004}, "model": "halb/chestplate/1"},
+		{ "predicate": {"damaged": 0, "damage": 0.008}, "model": "halb/chestplate/2"},
+		{ "predicate": {"damaged": 0, "damage": 0.012}, "model": "halb/chestplate/3"},
+		{ "predicate": {"damaged": 0, "damage": 0.016}, "model": "halb/chestplate/4"},
+		{ "predicate": {"damaged": 0, "damage": 0.02}, "model": "halb/chestplate/6"},
+		{ "predicate": {"damaged": 0, "damage": 0.024}, "model": "halb/chestplate/7"},
+		{ "predicate": {"damaged": 0, "damage": 0.028}, "model": "halb/chestplate/8"},
+		{ "predicate": {"damaged": 0, "damage": 0.032}, "model": "halb/chestplate/9"},
+		{ "predicate": {"damaged": 0, "damage": 0.036000000000000004}, "model": "halb/chestplate/10"},
+		{ "predicate": {"damaged": 0, "damage": 0.04}, "model": "halb/chestplate/11"},
+		{ "predicate": {"damaged": 0, "damage": 0.044}, "model": "halb/chestplate/12"},
+		{ "predicate": {"damaged": 0, "damage": 0.048}, "model": "halb/chestplate/13"},
+		{ "predicate": {"damaged": 0, "damage": 0.052000000000000005}, "model": "halb/chestplate/14"},
+		{ "predicate": {"damaged": 0, "damage": 0.056}, "model": "halb/chestplate/15"},
+		{ "predicate": {"damaged": 0, "damage": 0.06}, "model": "halb/chestplate/16"},
+		{ "predicate": {"damaged": 0, "damage": 0.064}, "model": "halb/chestplate/17"},
+		{ "predicate": {"damaged": 0, "damage": 0.068}, "model": "halb/chestplate/18"},
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/chainmail_chestplate"}
+	]
+}

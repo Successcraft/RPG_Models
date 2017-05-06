@@ -1,0 +1,8 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "halb/chestplate/item (1)"
+        "layer1": "halb/chestplate/layer1 (1)"
+        "layer2": "halb/chestplate/layer2 (1)"
+    }
+}

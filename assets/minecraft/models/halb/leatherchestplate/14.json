@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "halb/chestplate_leather/item (14)",
+        "layer1": "halb/chestplate_leather/item (14)"
+    }
+}

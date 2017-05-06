@@ -1,0 +1,27 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/carrot_on_a_stick"
+	},
+	"overrides": [
+		{ "predicate": {"damaged": 0, "damage": 0.04}, "model":"halb/stick/skillpoint"},
+		{ "predicate": {"damaged": 0, "damage": 0.08}, "model": "halb/stick/wand_torch"},
+		{ "predicate": {"damaged": 0, "damage": 0.12}, "model": "halb/stick/wand_1"},
+		{ "predicate": {"damaged": 0, "damage": 0.16}, "model": "halb/stick/wand_2"},
+		{ "predicate": {"damaged": 0, "damage": 0.2}, "model": "halb/stick/5"},
+		{ "predicate": {"damaged": 0, "damage": 0.24}, "model": "halb/stick/6"},
+		{ "predicate": {"damaged": 0, "damage": 0.28}, "model": "halb/stick/7"},
+		{ "predicate": {"damaged": 0, "damage": 0.32}, "model": "halb/stick/8"},
+		{ "predicate": {"damaged": 0, "damage": 0.36}, "model": "halb/stick/9"},
+		{ "predicate": {"damaged": 0, "damage": 0.4}, "model": "halb/stick/10"},
+		{ "predicate": {"damaged": 0, "damage": 0.44}, "model": "halb/stick/11"},
+		{ "predicate": {"damaged": 0, "damage": 0.48}, "model": "halb/stick/12"},
+		{ "predicate": {"damaged": 0, "damage": 0.52}, "model": "halb/stick/13"},
+		{ "predicate": {"damaged": 0, "damage": 0.56}, "model": "halb/stick/14"},
+		{ "predicate": {"damaged": 0, "damage": 0.6}, "model": "halb/stick/15"},
+		{ "predicate": {"damaged": 0, "damage": 0.64}, "model": "halb/stick/16"},
+		{ "predicate": {"damaged": 0, "damage": 0.68}, "model": "halb/stick/17"},
+		{ "predicate": {"damaged": 0, "damage": 0.72}, "model": "halb/stick/18"},
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/carrot_on_a_stick"}
+	]
+}

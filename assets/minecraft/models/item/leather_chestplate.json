@@ -1,0 +1,29 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "items/leather_chestplate",
+        "layer1": "items/leather_chestplate_overlay"
+	},
+	"overrides": [
+		{ "predicate": {"damaged": 0, "damage": 0}, "model": "item/leather_chestplate"},
+		{ "predicate": {"damaged": 0, "damage": 0.012345679012345678}, "model": "halb/leatherchestplate/1"},
+		{ "predicate": {"damaged": 0, "damage": 0.024691358024691357}, "model": "halb/leatherchestplate/2"},
+		{ "predicate": {"damaged": 0, "damage": 0.037037037037037035}, "model": "halb/leatherchestplate/3"},
+		{ "predicate": {"damaged": 0, "damage": 0.04938271604938271}, "model": "halb/leatherchestplate/4"},
+		{ "predicate": {"damaged": 0, "damage": 0.06172839506172839}, "model": "halb/leatherchestplate/5"},
+		{ "predicate": {"damaged": 0, "damage": 0.07407407407407407}, "model": "halb/leatherchestplate/6"},
+		{ "predicate": {"damaged": 0, "damage": 0.08641975308641975}, "model": "halb/leatherchestplate/7"},
+		{ "predicate": {"damaged": 0, "damage": 0.09876543209876543}, "model": "halb/leatherchestplate/8"},
+		{ "predicate": {"damaged": 0, "damage": 0.1111111111111111}, "model": "halb/leatherchestplate/9"},
+		{ "predicate": {"damaged": 0, "damage": 0.12345679012345678}, "model": "halb/leatherchestplate/10"},
+		{ "predicate": {"damaged": 0, "damage": 0.13580246913580246}, "model": "halb/leatherchestplate/11"},
+		{ "predicate": {"damaged": 0, "damage": 0.14814814814814814}, "model": "halb/leatherchestplate/12"},
+		{ "predicate": {"damaged": 0, "damage": 0.16049382716049382}, "model": "halb/leatherchestplate/13"},
+		{ "predicate": {"damaged": 0, "damage": 0.1728395061728395}, "model": "halb/leatherchestplate/14"},
+		{ "predicate": {"damaged": 0, "damage": 0.18518518518518517}, "model": "halb/leatherchestplate/15"},
+		{ "predicate": {"damaged": 0, "damage": 0.19753086419753085}, "model": "halb/leatherchestplate/16"},
+		{ "predicate": {"damaged": 0, "damage": 0.20987654320987653}, "model": "halb/leatherchestplate/17"},
+		{ "predicate": {"damaged": 0, "damage": 0.2222222222222222}, "model": "halb/leatherchestplate/18"},
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/leather_chestplate"}
+	]
+}

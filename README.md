@@ -19,3 +19,7 @@ To do:
 - Bows
 - Armor
 - Roleplay features
+
+Planned features:
+
+- Skill based Arena System (PVP)

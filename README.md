@@ -1,4 +1,4 @@
-# RPG_Models
+# RPG_Server
 A Minecraft RPG Projekt.
 
 Finished:

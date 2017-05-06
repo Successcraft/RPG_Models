@@ -19,7 +19,9 @@ To do:
 - Bows
 - Armor
 - Roleplay features
+- NPCs
 
 Planned features:
 
+- Custom Accessoires (Wings,Particles,Pets/Mounts,etc.)
 - Skill based Arena System (PVP)

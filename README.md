@@ -26,3 +26,4 @@ Planned features:
 
 - Custom Accessoires (Rings,Wings,Particles,Pets/Mounts,etc.)
 - Skill based Arena System (PVP)
+- Custom Welcome Screen

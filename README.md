@@ -4,6 +4,7 @@ A Minecraft RPG Projekt.
 Finished:
 
 - Wands
+- Swords
 - Skill Tree / Points
 
 In Progress:
@@ -15,7 +16,6 @@ To do:
 
 - Coin System
 - Dungeons / Dungeon Mobs
-- Swords
 - Bows
 - Shields
 - Armor

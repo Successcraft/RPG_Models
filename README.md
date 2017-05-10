@@ -9,6 +9,7 @@ Finished:
 
 In Progress:
 
+- Bows
 - City System
 - Custom Mobs
 
@@ -16,7 +17,6 @@ To do:
 
 - Coin System
 - Dungeons / Dungeon Mobs
-- Bows
 - Shields
 - Armor
 - Roleplay features

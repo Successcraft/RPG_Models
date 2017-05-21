@@ -6,10 +6,10 @@ Finished:
 - Wands
 - Swords
 - Skill Tree / Points
+- Bows
 
 In Progress:
 
-- Bows
 - City System
 - Custom Mobs
 

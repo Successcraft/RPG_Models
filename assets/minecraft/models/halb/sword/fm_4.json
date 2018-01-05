@@ -5,7 +5,8 @@
 		"texture3": "blocks/frosted_ice_0",
 		"texture6": "blocks/logwood",
 		"texture7": "blocks/lapis_block",
-		"particle": "blocks/rune"
+		"particle": "blocks/rune",
+		"texture": "blocks/leer"
 	},
 	"elements": [ 	 
 		{
@@ -716,12 +717,12 @@
 			"from": [ 6.499, 16, 7.5 ],
 			"to": [ 6.5, 29, 8.5 ],
 			"faces": {
-				"down": { "uv": [ 5, 7.5, 5.001, 8.5 ], "texture": "#particle", "cullface": "up", "rotation": 180 },
-				"up": { "uv": [ 5, 7.5, 5.001, 8.5 ], "texture": "#particle", "cullface": "up", "rotation": 180 },
-				"north": { "uv": [ 5, 3, 5.001, 16 ], "texture": "#particle", "cullface": "up" },
-				"south": { "uv": [ 10.999, 3, 11, 16 ], "texture": "#particle", "cullface": "up" },
+				"down": { "uv": [ 5, 7.5, 5.001, 8.5 ], "texture": "#texture", "cullface": "up", "rotation": 180 },
+				"up": { "uv": [ 5, 7.5, 5.001, 8.5 ], "texture": "#texture", "cullface": "up", "rotation": 180 },
+				"north": { "uv": [ 5, 3, 5.001, 16 ], "texture": "#texture", "cullface": "up" },
+				"south": { "uv": [ 10.999, 3, 11, 16 ], "texture": "#texture", "cullface": "up" },
 				"west": { "uv": [ 7.5, 3, 8.5, 16 ], "texture": "#particle", "cullface": "up" },
-				"east": { "uv": [ 7.5, 3, 8.5, 16 ], "texture": "#particle", "cullface": "up" }
+				"east": { "uv": [ 7.5, 3, 8.5, 16 ], "texture": "#texture", "cullface": "up" }
 			}
 		},
 		{
@@ -729,11 +730,11 @@
 			"from": [ 9.5, 16, 7.5 ],
 			"to": [ 9.501, 29, 8.5 ],
 			"faces": {
-				"down": { "uv": [ 9.5, 7.5, 9.501, 8.5 ], "texture": "#particle", "cullface": "up" },
-				"up": { "uv": [ 9.5, 7.5, 9.501, 8.5 ], "texture": "#particle", "cullface": "up" },
-				"north": { "uv": [ 6.499, 3, 6.5, 16 ], "texture": "#particle", "cullface": "up" },
-				"south": { "uv": [ 9.5, 3, 9.501, 16 ], "texture": "#particle", "cullface": "up" },
-				"west": { "uv": [ 7.5, 3, 8.5, 16 ], "texture": "#particle", "cullface": "up" },
+				"down": { "uv": [ 9.5, 7.5, 9.501, 8.5 ], "texture": "#texture", "cullface": "up" },
+				"up": { "uv": [ 9.5, 7.5, 9.501, 8.5 ], "texture": "#texture", "cullface": "up" },
+				"north": { "uv": [ 6.499, 3, 6.5, 16 ], "texture": "#texture", "cullface": "up" },
+				"south": { "uv": [ 9.5, 3, 9.501, 16 ], "texture": "#texture", "cullface": "up" },
+				"west": { "uv": [ 7.5, 3, 8.5, 16 ], "texture": "#texture", "cullface": "up" },
 				"east": { "uv": [ 7.5, 3, 8.5, 16 ], "texture": "#particle", "cullface": "up" }
 			}
 		}

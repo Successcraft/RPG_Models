@@ -729,9 +729,9 @@
 			"scale":  [ 0.6, 0.6, 0.6 ]
 		},
 		"gui": {
-			"rotation":  [ 0, 56, 0 ],
-			"translation":  [ 0, -3.9, 0 ],
-			"scale":  [ 0.5, 0.5, 0.5 ]
+			"rotation":  [ 27, -135, 52 ],
+			"translation":  [ -1.5, -4, 0 ],
+			"scale":  [ 0.55, 0.55, 0.55 ]
 		},
 		"head": {
 			"rotation":  [ 0, 90, 0 ],

@@ -1,6 +1,0 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "halb/bow/pulling1/item (5)"
-    }
-}
